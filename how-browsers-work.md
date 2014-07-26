@@ -1,6 +1,7 @@
 ## how-browsers-work
-启动github shell
 
+启动github shell
+```
 //使用密钥登陆github dos
 ssh -T git@github.com
 //到自己电脑本地文件夹
@@ -12,4 +13,4 @@ cd F:\github\how-browsers-work
 git commit -m "add node "
 //推送到github上面
 git push -u  how-browsers-work master
-
+```
